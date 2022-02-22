@@ -7,4 +7,4 @@ Profile
 
    ***
 
-![Alt text]("https://github.com/gtb-2022-du-ruijia/.github/blob/main/assets/my_photo.jpg")
+<img src="assets/my_photo.jpg" alt="photo" width="50%" height="50%"/>
