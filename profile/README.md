@@ -7,4 +7,4 @@ Profile
 
    ***
 
-<img src="assets/my_photo.jpg" alt="photo" width="50%" height="50%"/>
+<img src="assets/my_photo.jpg" alt="photo" width="30%" height="50%"/>
