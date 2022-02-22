@@ -4,7 +4,7 @@ Profile
 > Welcome to my gtb-learning repository.   
 > Feel free to call me Ruijia.  
 > I am in the super X program and I will be based in Chengdu.   
->   
-   ***
 
+   ***
+![alt text](https://github.com/gtb-2022-du-ruijia/.github/blob/main/assets/my_photo.jpg)
 
